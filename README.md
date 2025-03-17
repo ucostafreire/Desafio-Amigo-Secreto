@@ -33,6 +33,6 @@
 ## Autores do Projeto
 
 👷 **Autores:**
-- ![HTML](https://example.com/html_logo.png) **HTML** - Oracle/Alura
-- ![CSS](https://example.com/css_logo.png) **CSS** - Oracle/Alura
-- ![JavaScript](https://example.com/js_logo.png) **JavaScript** - Ubiratan Freire
+- [HTML]  **HTML** - Oracle/Alura
+- [CSS]  **CSS** - Oracle/Alura
+- [JavaScript] **JavaScript** - Ubiratan Freire
